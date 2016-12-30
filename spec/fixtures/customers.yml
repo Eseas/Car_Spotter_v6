@@ -1,0 +1,11 @@
+eseas:
+  bill: 0
+  credit: 200
+  max_photo: 2
+  session: eseas
+
+turbo407:
+  bill: 39.99
+  credit: 10000
+  max_photo: 10
+  session: turbo407

@@ -1,0 +1,25 @@
+eseas_pug:
+  make: Peugeot
+  model: 406
+  year: 2002
+  lic: HBT428
+  car: eseas_pug
+
+eseas_bmw:
+  make: BMW
+  model: 640i
+  year: 2013
+  lic: BMW640
+  car: eseas_bmw
+
+turbo407_por:
+  make: Porsche
+  model: 911
+  year: 2003
+  lic: 911
+  car: turbo407_por
+
+turbo407_cit:
+  make: Citroen
+  model: C4
+  year: 2010
